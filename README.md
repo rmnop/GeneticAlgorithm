@@ -1,7 +1,7 @@
 # GeneticAlgorithm
 
  
-<h1>This program utilizes a genetic algorithm to optimize a space utilization schedule for activities conducted by the Sophisticated Learning Association (SLA). The goal is to assign appropriate rooms, times, and facilitators to each activity while considering various constraints and preferences.</h1>h1>
+<h2>This program utilizes a genetic algorithm to optimize a space utilization schedule for activities conducted by the Sophisticated Learning Association (SLA). The goal is to assign appropriate rooms, times, and facilitators to each activity while considering various constraints and preferences.</h2>
 
 Input:
 <br>
